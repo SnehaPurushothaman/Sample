@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>PhoneGap Sample</title>
+</head>
+<body>
+<h1>Welcome to Phonegap</h1>
+</body>
+</html>
